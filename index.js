@@ -68,4 +68,4 @@ app.route('/api/characters/one/:id')
     });
 
 app.listen(3000);
-console.log('listening');
+console.log('Listen on 3K.');
