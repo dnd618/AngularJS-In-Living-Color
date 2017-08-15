@@ -23,7 +23,10 @@ img {
 }
 
 body {
-    background: lightyellow url("https://espngrantland.files.wordpress.com/2015/04/in-living-color.jpg") no-repeat fixed center;
+    background: lightyellow url("https://i.kinja-img.com/gawker-media/image/upload/s--Nk9NLFlX--/c_scale,fl_progressive,q_80,w_800/mi9zse6qavxkmhfmmv1i.jpg")fixed center;
+    /* background: cover; */
+    background-repeat: no-repeat;
+    background-size: 1000px;
 }
 .header, img {
     outline: 5px dashed navajowhite;
