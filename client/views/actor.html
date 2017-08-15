@@ -1,0 +1,9 @@
+<div ng-controller="ActorController">
+    <h1>{{allActor[0].actor}}</h1>
+    <div ng-repeat="character in allActor" class="char-div">
+        <h2>{{character.name}}</h2>
+        <div class="pics">
+            <img ng-src={{character.image}}>
+        </div>
+    </div>
+</div>

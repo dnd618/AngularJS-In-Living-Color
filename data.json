@@ -1,0 +1,125 @@
+[{
+        "id": "1",
+        "name": "Wanda Wayne",
+        "image": "https://i.makeagif.com/media/9-09-2015/FhWiyC.gif",
+        "actor": "Jamie Foxx"
+        
+    },
+    {
+        "id": "2",
+        "name": "Oswald Bates",
+        "image": "https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/video/5096631?region=US&size=600x400",
+        "actor": "Damon Wayans"  
+    },
+    {
+        "id": "3",
+        "name": "Benita Butrell",
+        "image": "https://media.giphy.com/media/U8lokSlvnIOZ2/giphy.gif",
+        "actor": "Kim Wayans"
+        
+    },
+    {
+        "id": "4",
+        "name": "Fire Marshall Bill",
+        "image": "https://i.pinimg.com/736x/4f/56/34/4f5634069c5192b46dfe54d8c8c664b4--jim-carey-in-living-color.jpg",
+        "actor": "Jim Carrey"
+        
+    },
+    {
+        "id": "5",
+        "name": "Handi Man",
+        "image": "https://1.bp.blogspot.com/-NMBmLxemG5I/WItS0cFga5I/AAAAAAAAbKM/vWnoZTmrBEkKSEl505ZJCXgmmFPdRZI_QCLcB/s400/9NQkRv.gif",
+        "actor": "Damon Wayans"
+        
+    },
+    {
+        "id": "6",
+        "name": "Homey D. Clown",
+        "image": "https://media.giphy.com/media/gj4Bvzx5yCCdO/giphy.gif",
+        "actor": "Damon Wayans"
+        
+    },
+    {
+        "id": "7",
+        "name": "Grandpa Jack McGee",
+        "image": "https://19818-presscdn-pagely.netdna-ssl.com/wp-content/uploads/315/15/grandpajack.gif",
+        "actor": "Jim Carrey"
+        
+    },
+    {
+        "id": "8",
+        "name": "Anton Jackson",
+        "image": "http://i.makeagif.com/media/3-31-2014/Oi3dfE.gif",
+        "actor": "Damon Wayans"
+        
+    },
+    {
+        "id": "9",
+        "name": "Cheap Pete",
+        "image": "https://i.ytimg.com/vi/JBjs0_V96Ac/hqdefault.jpg",
+        "actor": "Chris Rock"
+        
+    },
+    
+    {
+        "id": "10",
+        "name": "Vera De Milo",
+        "image": "https://media.giphy.com/media/gYYgpJQJJ24lW/giphy.gif",
+        "actor": "Jim Carrey"
+        
+    },
+    {
+        "id": "11",
+        "name": "Lashawn",
+        "image": "https://i.ytimg.com/vi/5JvMqp4jlzI/hqdefault.jpg",
+        "actor": "T'Keyah Keymah"        
+    },
+    {
+        "id": "12",
+        "name": "Men of Film",
+        "image": "https://media.giphy.com/media/L2kNYfO7aPbzO/giphy.gif",
+        "actor": "David Alan Grier"
+    },
+    {
+        "id": "13",
+        "name": "Mr. and Ms. Brooks",
+        "image": "https://i.ytimg.com/vi/jjnaUkacw30/hqdefault.jpg",
+        "actor": "Kim Wayans"        
+    },
+    {
+        "id": "14",
+        "name": "Rodney Washington",
+        "image": "https://i.ytimg.com/vi/7eUkW8Ru6_w/hqdefault.jpg",
+        "actor": "Tommy Lee Davidson"        
+    },
+    {
+        "id": "15",
+        "name": "Frenchie",
+        "image": "https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/video/5095560?region=US&size=600x400",
+        "actor": "Keenen Ivory Wayans"   
+    }, 
+    {       "id": "16",
+        "name": "Lil' Richie",
+        "image": "https://i.ytimg.com/vi/W_WxSKmibm0/hqdefault.jpg",
+        "actor": "Jamie Foxx"
+    },
+    {
+        "id": "17",
+        "name": "Michael Jackson",
+        "image": "http://img.youtube.com/vi/x7pJ6HFT_dE/mqdefault.jpg",
+        "actor": "David Alan Grier"
+        
+    },    
+    {
+        "id": "18",
+        "name": "2Pac",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-08/3/20/enhanced/webdr15/anigif_original-20613-1438648152-4.gif",
+        "actor": "2Pac"
+        
+    },    
+    {
+        "id": "19",
+        "name": "Flyy Girl J.Lo",
+        "image": "http://i.dailymail.co.uk/i/pix/2014/01/30/article-2548506-1B11EB9B00000578-275_634x480.jpg",
+        "actor": "Jennifer Lopez"
+    }]

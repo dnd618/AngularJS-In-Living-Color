@@ -1,0 +1,45 @@
+.center {
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: overline;
+}
+
+a, p{
+    font-size: 2em;
+    text-decoration: none;
+    color: palevioletred;
+    font-family: MONOSPACE;
+}
+
+.char-div{
+    padding-bottom: 15px;
+    margin-bottom: 3em;
+}
+
+img {
+    border: 5px dashed mediumaquamarine;
+    width: 20em;
+    height: 15em;
+}
+
+body {
+    background: lightyellow url("https://espngrantland.files.wordpress.com/2015/04/in-living-color.jpg") no-repeat fixed center;
+}
+.header, img {
+    outline: 5px dashed navajowhite;
+    padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2em;
+    outline-offset: 5px;
+}
+h1, h2, h3 {
+    font-size: 30px;
+    font-family: MONOSPACE;
+    color: palevioletred
+}
+
+a:hover{
+    cursor: pointer;
+}

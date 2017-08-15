@@ -1,0 +1,11 @@
+<div ng-controller="ListController as charList">
+    <div ng-repeat="character in listAll" class="char-div">
+        <a ng-click="oneChar(character.id)">
+            <h2>Character: {{ character.name }}</h2>
+        </a>
+         <img ng-src={{character.image}}>
+        <a ng-click="oneActor(character.actor)"> 
+            <h3>Actor: {{ character.actor }}</h3>
+        </a>
+    </div>
+</div>
